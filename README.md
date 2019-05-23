@@ -1,0 +1,2 @@
+# VoyagerProto
+Prototype game design.
